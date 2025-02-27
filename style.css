@@ -41,6 +41,8 @@ ul {
 header a {
   padding: 15px;
   display: block;
+  text-decoration: none;
+  color: black;
 }
 
 header a:hover {
@@ -180,10 +182,16 @@ header a:hover {
   padding-left: 25px;
   padding-right: 25px;
 }
+.forminput p{
+    margin-top: 60px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
 
 .forminput p{
     margin-bottom: 10px;
 }
+
 .forminput form input {
   display: block;
   width: 100%;
